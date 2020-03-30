@@ -20,13 +20,10 @@
 
 ## Project Motivation
 ---
-For this project, I was interested in using Stack Overflow survey data from 2017-2019 to better understand:
-1. Background of remote-work developers
-	- Education
-	- Porgramming
-	- Job Type
-2. Salary of remote-work developers relative to fulltime
-3. Job statisfaction of remote-work developers relative to fulltime
+For this project, I was interested in using Stack Overflow survey data from 2017-2019 to better understand the characteristics of freelance developers, specifically:
+1. What types of developers are doing freelance work?
+2. How does the salary differ between freelances and full-time developers?
+3. What factors about a freelance developer contributes most to salary?
 
 ## Notebook Description
 ---
