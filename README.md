@@ -21,12 +21,17 @@
 ## Project Motivation
 ---
 For this project, I was interested in using Stack Overflow survey data from 2017-2019 to better understand the characteristics of freelance developers, specifically:
-1. What types of developers are doing freelance work?
-2. How does the salary differ between freelances and full-time developers?
-3. What factors about a freelance developer contributes most to salary?
+1. Which countries do freelance developers mostly reside?
+2. What types of developers do freelancing?
+3. How does skill sets and job satisfaction relate to salary as a freelancer?
 
 ## Notebook Description
 ---
+- DataCleaning.ipynb - contains the general data reading, merging and variable transformation for the survey datasets
+- CountryStats.ipynb
+- DevTypeStats.ipynb
+- SalaryModeling.ipynb
+
 
 ## Results
 ---
