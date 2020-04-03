@@ -33,5 +33,4 @@ The main findings of the analysis can be found at this blog post
 [link](https://medium.com/@aldrinl/freelance-developers-worldwide-b06f344720af)
 
 ## Licensing & Acknowledgement
----
 Credits to Stack Overflow for the data licenced under Open Database License (ODbL).
