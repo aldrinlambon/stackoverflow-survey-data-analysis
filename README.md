@@ -30,7 +30,8 @@ By creating a model to predict salary we can also identify variables and charact
 - Create a trainset and testset
 - Perform One hot encoding to the categorical variables
 - Initialize and fit a Linear Regression model
-- Evaluate the model coefficients
+- Evalurate model metrics
+- Analyze model coefficients
 
 ## Results
 
